@@ -1,36 +1,35 @@
-有本小程序（上线项目）
+**有本小程序（上线项目）**
 
 主页部分：
 
-<img src="https://raw.githubusercontent.com/MARKCHEN0218/ProjectPreview/master/IMG_4160.PNG" alt="bb8ea2b3e5213a78096b7691230beb3" style="zoom:33%" />
+<img src="https://raw.githubusercontent.com/MARKCHEN0218/ProjectPreview/master/IMG_4160.PNG" width="300"/>
 
 
-
-毕业设计小程序：
+**毕业设计小程序：**
 
 主页部分：
 
-![img](file:///C:\Users\12541\AppData\Local\Temp\ksohtml20172\wps2.png)
+<img src="https://raw.githubusercontent.com/MARKCHEN0218/ProjectPreview/master/wps2.png" width="300"/>
 
 聊天部分：
 
-<img src="file:///C:\Users\12541\AppData\Local\Temp\ksohtml20172\wps8.jpg" alt="img" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/MARKCHEN0218/ProjectPreview/master/wps8.jpg" width="300"/>
 
-![img](file:///C:\Users\12541\AppData\Local\Temp\ksohtml20172\wps3.png)
+<img src="https://raw.githubusercontent.com/MARKCHEN0218/ProjectPreview/master/wps3.png" width="300"/>
 
 打卡功能模块部分：
 
-<img src="file:///C:\Users\12541\AppData\Local\Temp\ksohtml20172\wps9.jpg" alt="img" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/MARKCHEN0218/ProjectPreview/master/wps9.jpg" width="300"/>
 
-<img src="file:///C:\Users\12541\AppData\Local\Temp\ksohtml20172\wps4.png" alt="img"  />
+<img src="https://raw.githubusercontent.com/MARKCHEN0218/ProjectPreview/master/wps4.png" width="300"/>
 
-![img](file:///C:\Users\12541\AppData\Local\Temp\ksohtml20172\wps6.png)
+<img src="https://raw.githubusercontent.com/MARKCHEN0218/ProjectPreview/master/wps6.png" width="300"/>
 
 选择授权人员界面：
 
-![img](file:///C:\Users\12541\AppData\Local\Temp\ksohtml20172\wps7.png)
+<img src="https://raw.githubusercontent.com/MARKCHEN0218/ProjectPreview/master/wps7.png" width="300"/>
 
 事件通知页面：
 
-![img](file:///C:\Users\12541\AppData\Local\Temp\ksohtml20172\wps10.jpg)
+<img src="https://raw.githubusercontent.com/MARKCHEN0218/ProjectPreview/master/wps10.jpg" width="300"/>
 
