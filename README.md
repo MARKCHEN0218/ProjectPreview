@@ -2,7 +2,7 @@
 
 主页部分：
 
-<img src="C:\Users\12541\AppData\Local\Temp\WeChat Files\bb8ea2b3e5213a78096b7691230beb3.jpg" alt="bb8ea2b3e5213a78096b7691230beb3" style="zoom: 33%;" />
+<img src="https://raw.githubusercontent.com/MARKCHEN0218/ProjectPreview/master/IMG_4160.PNG" alt="bb8ea2b3e5213a78096b7691230beb3" style="zoom:33%" />
 
 
 
